@@ -1,6 +1,6 @@
 # GitHub User Finder
 
-**Автор:** [Рахаев Аслан]
+**Автор:** [Рсманов Али]
 
 ## Описание
 
@@ -15,6 +15,6 @@
 
 ## Использование API GitHub
 
-Приложение использует публичный GitHub API (https://github.com/AslanMEO/GitHub-User-Finder).
+Приложение использует публичный GitHub API (https://github.com/FaridaMEO/GitHub-User-Finder).
 
 Для поиска пользователя введите его username в поле# GitHub-User-Finder
